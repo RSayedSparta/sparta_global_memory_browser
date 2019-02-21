@@ -1,0 +1,15 @@
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\bin\Debug\WPFBrowserApp.exe.config
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\bin\Debug\WPFBrowserApp.exe
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\bin\Debug\WPFBrowserApp.pdb
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.csprojAssemblyReference.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\MainWindow.g.cs
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\App.g.cs
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp_MarkupCompile.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp_MarkupCompile.lref
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\MainWindow.baml
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.g.resources
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.Properties.Resources.resources
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.csproj.GenerateResource.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.exe
+C:\Users\Tech-W70a\Engineering26\week6\Day3\WPFBrowser\WPFBrowserApp\WPFBrowserApp\obj\Debug\WPFBrowserApp.pdb
