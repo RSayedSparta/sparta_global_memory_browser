@@ -1,1 +1,4 @@
-http://www.google.com
+https://docs.microsoft.com/en-us/dotnet/api/system.io.file.appendtext?view=netframework-4.7.2
+https://www.youtube.com/
+https://www.google.com/
+https://www.google.com/

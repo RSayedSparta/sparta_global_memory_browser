@@ -74,23 +74,22 @@ namespace WPFBrowserApp
             }
         }
 
-        public void populateCombo()
-        {
-            comboData.Add("https://github.com/RSayedSparta/");
-            comboData.Add("http://www.google.com");
-            comboData.Add("http://www.amazon.com");
-            comboData.Add("http://www.ebay.co.uk");
+        //public void populateCombo()
+        //{
+        //    comboData.Add("https://github.com/RSayedSparta/");
+        //    comboData.Add("http://www.google.com");
+        //    comboData.Add("http://www.amazon.com");
+        //    comboData.Add("http://www.ebay.co.uk");
             
-        }
+        //}
 
         public void save(string url)
         {
-            TextWriter tw = new StreamWriter("URLList.txt");
-            
-            tw.WriteLine(url);
+            using (TextWriter tw = File.AppendText("URLList.txt"))
+            {
+                tw.WriteLine(url);
 
-            tw.Close();
-
+            }
         }
     }
 
